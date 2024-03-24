@@ -26,7 +26,9 @@ Below are some of my skills and contact details:
 ## Contact Details
 
 - Email: ak47akm1610@gmail.com
-- Instagram: [akm_16.10](https://www.instagram.com/akm_16.10/)
+- <a href="https://github.com/anand123AKM" target="_blank">
+  <img src="https://www.instagram.com/akm_16.10/" alt="Instagram" width="40" height="40">
+</a> 
 - LinkedIn: [Anand Kr Maurya](https://www.linkedin.com/in/anand-kr-maurya-akm16)
 - Twitter: [Anand Kr Maurya](https://twitter.com/Anand786akm)
 
