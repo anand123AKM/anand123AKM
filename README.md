@@ -26,11 +26,13 @@ Below are some of my skills and contact details:
 ## Contact Details
 
 - Email: ak47akm1610@gmail.com
-- <a href="https://github.com/anand123AKM" target="_blank">
-  <img src="https://www.instagram.com/akm_16.10/" alt="Instagram" width="40" height="40">
-</a> 
-- LinkedIn: [Anand Kr Maurya](https://www.linkedin.com/in/anand-kr-maurya-akm16)
-- Twitter: [Anand Kr Maurya](https://twitter.com/Anand786akm)
+<p align="left">
+<a href="https://twitter.com/twitter.com/Anand786akm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com/akm_16.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+  <a href="https://link.com/linkedin.com/in/anand-kr-maurya-akm16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkdin.svg" alt="" height="30" width="40" /></a>
+    <a href="https://link.com/github.com/anand123AKM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="" height="30" width="40" /></a>
+</p>
+
 
 ## My Portfolio
 
