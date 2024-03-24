@@ -16,14 +16,6 @@
 
 - 📫 How to reach me **ak47akm1610@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anand786akm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anand786akm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anand-kr-maurya-akm-16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand-kr-maurya-akm-16" height="30" width="40" /></a>
-<a href="https://fb.com/akm_1610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akm_1610" height="30" width="40" /></a>
-<a href="https://instagram.com/akm_16.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akm_16.10" height="30" width="40" /></a>
-</p>
-
 
 
 
@@ -63,6 +55,17 @@ https://myportfolio-1610.netlify.app/
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand123akm&show_icons=true&locale=en" alt="anand123akm" /></p>
 
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/anand786akm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anand786akm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anand-kr-maurya-akm-16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand-kr-maurya-akm-16" height="30" width="40" /></a>
+<a href="https://fb.com/akm_1610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akm_1610" height="30" width="40" /></a>
+<a href="https://instagram.com/akm_16.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akm_16.10" height="30" width="40" /></a>
+</p>
 
 
 Feel free to reach out to me for collaborations, projects, or just to say hello!
