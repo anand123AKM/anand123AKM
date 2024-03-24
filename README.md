@@ -1,7 +1,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://images.app.goo.gl/gfdtr7Cr5kTZDNdy7">
  <source media="(prefers-color-scheme: light)" srcset="https://images.app.goo.gl/gfdtr7Cr5kTZDNdy7">
- <img alt="YOUR-ALT-TEXT" src=" https://images.app.goo.gl/gfdtr7Cr5kTZDNdy7">
+ <img alt="YOUR-ALT-TEXT" src="./istockphoto-1334907287-640x640.jpg">
 </picture>
 
 
