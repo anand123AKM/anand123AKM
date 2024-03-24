@@ -21,16 +21,7 @@ Below are some of my skills and contact details:
 - ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-- <details>
-<summary>My top languages</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| react     |
-|     3| native    |
-
-</details>
 
 ## Contact Details
 
