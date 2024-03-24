@@ -31,7 +31,6 @@ Below are some of my skills and contact details:
 |     1| JavaScript|
 |     2| react     |
 |     3| native    |
-|     4| Java      |
 
 </details>
 
