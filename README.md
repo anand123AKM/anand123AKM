@@ -1,6 +1,6 @@
-## HELLOW CODERS 
+# Hello Coders
 
-# I AM ANAND MAURYA 
+### AM ANAND MAURYA 
 FULL-STACK DEVELOPER . ANDROID DEVELOPER
 
 Welcome to my GitHub profile. I am a 3rd-year Computer Science Engineering student specializing in full-stack development and mobile app development.
