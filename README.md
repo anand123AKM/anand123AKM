@@ -1,18 +1,5 @@
 <p align="center"> <img img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I%27m+Anand+Kr.+Maurya"> </p>
 
- I am a 3rd-year Computer Science Engineering student specializing in full-stack development and mobile app development.
-
-
-
-
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Anand Kr. Maurya</h1>
 <h3 align="center">I am a 3rd-year Computer Science Engineering student specializing in full-stack development and mobile app development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand123akm&label=Profile%20views&color=0e75b6&style=flat" alt="anand123akm" /> </p>
@@ -28,8 +15,6 @@
 - 💬 Ask me about **react , javascript**
 
 - 📫 How to reach me **ak47akm1610@gmail.com**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAF3LdMOJFA/FSeI9o6CDGmBkbhjLY7oJQ/view?utm_content=DAF3LdMOJFA&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF3LdMOJFA/FSeI9o6CDGmBkbhjLY7oJQ/view?utm_content=DAF3LdMOJFA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
