@@ -1,6 +1,6 @@
 # Hello Coders
 
-#### I am Anand Maurya 
+#### I am Anand Kr. Maurya 
 FULL-STACK DEVELOPER . ANDROID DEVELOPER
 
 Welcome to my GitHub profile. I am a 3rd-year Computer Science Engineering student specializing in full-stack development and mobile app development.
