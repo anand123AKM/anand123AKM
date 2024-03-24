@@ -59,19 +59,6 @@
 - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
-
-## Contact Details
-
-- Email: ak47akm1610@gmail.com
-<p align="left">
-<a href="https://twitter.com/twitter.com/Anand786akm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/akm_16.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
-    <a href="https://link.com/github.com/anand123AKM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="" height="30" width="40" /></a>
-
-
-</p>
-
-
 ## My Portfolio
 
 https://myportfolio-1610.netlify.app/
