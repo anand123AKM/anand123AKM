@@ -25,10 +25,6 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand123akm&show_icons=true&locale=en" alt="anand123akm" /></p>
-
-
-
 
 
 
@@ -62,6 +58,12 @@
 ## My Portfolio
 
 https://myportfolio-1610.netlify.app/
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand123akm&show_icons=true&locale=en" alt="anand123akm" /></p>
+
+
 
 Feel free to reach out to me for collaborations, projects, or just to say hello!
 
