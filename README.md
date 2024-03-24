@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src=" YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://images.app.goo.gl/gfdtr7Cr5kTZDNdy7">
+ <source media="(prefers-color-scheme: light)" srcset="https://images.app.goo.gl/gfdtr7Cr5kTZDNdy7">
+ <img alt="YOUR-ALT-TEXT" src=" https://images.app.goo.gl/gfdtr7Cr5kTZDNdy7">
 </picture>
 
 
