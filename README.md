@@ -29,7 +29,7 @@ Below are some of my skills and contact details:
 | Rank | Languages |
 |-----:|-----------|
 |     1| JavaScript|
-|     2| react
+|     2| react    |
 |     3| react native |
 |     4| Java    |
 
