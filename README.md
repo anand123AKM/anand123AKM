@@ -1,14 +1,9 @@
-<link href="https://fonts.googleapis.com/css?family=Teko:700&display=swap" rel="stylesheet">
+## HELLOW CODERS 
 
-<h1><span class='one'>r</span><span class='two'>i</span><span class='three'>s</span><span class='four'>e</span> <span class='five'>u</span><span class='six'>p</span></h1>
+## I AM ANAND MAURYA 
+FULL-STACK DEVELOPER . ANDROID DEVELOPER
 
-<img src='https://images.unsplash.com/photo-1546707012-c46675f12716?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80' alt='Sebastian Ervi'>
-
-<a href="https://www.youtube.com/watch?v=avKUEjD88YU">HWLLOW GUYS(demo)</a>
-
-
-
-Hello Coders! Welcome to my GitHub profile. I am a 3rd-year Computer Science Engineering student specializing in full-stack development and mobile app development.
+Welcome to my GitHub profile. I am a 3rd-year Computer Science Engineering student specializing in full-stack development and mobile app development.
 
 Below are some of my skills and contact details:
 
