@@ -1,16 +1,5 @@
-<details>
-<summary>My top languages</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
-
-</details>
-
-
-#### I am Anand Kr. Maurya 
+## I am Anand Kr. Maurya 
 FULL-STACK DEVELOPER . ANDROID DEVELOPER
 
 Welcome to my GitHub profile. I am a 3rd-year Computer Science Engineering student specializing in full-stack development and mobile app development.
@@ -33,6 +22,18 @@ Below are some of my skills and contact details:
 - ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 - ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+- <details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| react
+|     3| react native |
+|     4| Java    |
+
+</details>
 
 ## Contact Details
 
