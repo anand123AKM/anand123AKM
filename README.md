@@ -3,7 +3,7 @@
 
 <h2 align="center">I'm Anand Kr. Maurya</h2>
 
-<h5 align="center">currently, a rd-year Computer Science Engineering student, specializing in full-stack development and mobile app development.</h5>
+<h5 align="center">currently, a 3rd-year Computer Science Engineering student, specializing in full-stack development and mobile app development.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand123akm&label=Profile%20views&color=0e75b6&style=flat" alt="anand123akm" /> </p>
 
