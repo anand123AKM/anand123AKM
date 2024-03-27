@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **full stack development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anand123AKM](https://github.com/anand123AKM)
+- 👨‍💻 All of my projects are available at [https://github.com/anand123AKM](https://github.com/anand123AKM/repository)
 
 - 💬 Ask me about **react , javascript**
 
