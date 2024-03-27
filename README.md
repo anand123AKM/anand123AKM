@@ -1,6 +1,6 @@
-<p align="center"> <img img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+"><h3>I'm Anand Kr. Maurya</h3></p>
+<p align="center"> <img img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+"><h3  align="center" >I'm Anand Kr. Maurya</h3></p>
 
-<h3 align="center">I am a 3rd-year Computer Science Engineering student specializing in full-stack development and mobile app development.</h3>
+<h4 align="center">I am a 3rd-year Computer Science Engineering student specializing in full-stack development and mobile app development.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand123akm&label=Profile%20views&color=0e75b6&style=flat" alt="anand123akm" /> </p>
 
