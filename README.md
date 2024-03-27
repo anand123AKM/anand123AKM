@@ -1,4 +1,4 @@
-<p align="center"> <img img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=555555&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C"><h2  align="center" >I'm Anand Kr. Maurya</h2></p>
+<p align="center"> <img img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=5555555&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C"><h2  align="center" >I'm Anand Kr. Maurya</h2></p>
 
 <h4 align="center">I am a 3rd-year Computer Science Engineering student specializing in full-stack development and mobile app development.</h4>
 
