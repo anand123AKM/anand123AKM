@@ -52,7 +52,7 @@
 
 ## My Portfolio
 
-[![Portfolio](<a href="https://www.flaticon.com/free-icons/broken" title="broken icons"></a>)](https://myportfolio-1610.netlify.app/)
+[![Portfolio]<a href="https://www.flaticon.com/free-icons/broken" title="broken icons"></a>](https://myportfolio-1610.netlify.app/)
 
 
 
