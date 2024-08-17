@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react , javascript**
 
-- 📫 How to reach me **ak47akm1610@gmail.com**
+- 📫 How to reach me **anandmaurya1610@gmail.com**
 
 
 
