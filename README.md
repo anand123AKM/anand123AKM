@@ -16,7 +16,7 @@
 - 💬 Ask me about **react , javascript**
 
 - 📫 How to reach me **anandmaurya1610@gmail.com**
-- **[LinkedIn🔗<a href="https://www.flaticon.com/free-icons/broken" title="broken icons"></a>](https://www.linkedin.com/in/anand-kr-maurya-akm16/)**
+- **[LinkedIn<a href="https://www.flaticon.com/free-icons/broken" title="broken icons"></a>](https://www.linkedin.com/in/anand-kr-maurya-akm16/)**
 
 
 
@@ -28,7 +28,7 @@
 
 ## My Portfolio
 
-[AKM<a href="https://www.flaticon.com/free-icons/broken" title="broken icons"></a>](https://akm-1610.vercel.app/)
+[AKM_1610<a href="https://www.flaticon.com/free-icons/broken" title="broken icons"></a>](https://akm-1610.vercel.app/)
 
 
 
@@ -39,7 +39,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,java,py,nodejs,mysql,npm,redux,css)](https://skillicons.dev)
 
-
+- ![next js](https://img.shields.io/badge/next js-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 - 	![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - 	![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 - 	![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
