@@ -16,6 +16,7 @@
 - 💬 Ask me about **react , javascript**
 
 - 📫 How to reach me **anandmaurya1610@gmail.com**
+- **
 
 
 
@@ -27,7 +28,7 @@
 
 ## My Portfolio
 
-[Cick Here<a href="https://www.flaticon.com/free-icons/broken" title="broken icons"></a>](https://akm-1610.vercel.app/)
+[AKM<a href="https://www.flaticon.com/free-icons/broken" title="broken icons"></a>](https://akm-1610.vercel.app/)
 
 
 
