@@ -25,7 +25,9 @@
 
 
 
+## My Portfolio
 
+[Cick Here<a href="https://www.flaticon.com/free-icons/broken" title="broken icons"></a>](https://akm-1610.vercel.app/)
 
 
 
@@ -50,9 +52,7 @@
 - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
-## My Portfolio
 
-[📜📉🗂📝📑📊📃<a href="https://www.flaticon.com/free-icons/broken" title="broken icons"></a>](https://akm-1610.vercel.app/)
 
 
 
