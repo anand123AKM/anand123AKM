@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand123akm&label=Profile%20views&color=0e75b6&style=flat" alt="anand123akm" /> </p>
 
-- 🌱 I’m currently learning **App Dev React Native**
+- 🌱 I’m currently learning **App Dev - React Native**
 
 - 👯 I’m looking to collaborate on **full stack development**
 
