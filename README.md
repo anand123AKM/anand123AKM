@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand123akm&label=Profile%20views&color=0e75b6&style=flat" alt="anand123akm" /> </p>
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **App Dev React Native**
 
 - 👯 I’m looking to collaborate on **full stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anand123AKM](https://github.com/anand123AKM?tab=repositories)
 
-- 💬 Ask me about **react , javascript**
+- 💬 Ask me about **Next js , react , javascript**
 
 - 📫 How to reach me **anandmaurya1610@gmail.com**
 - **[LinkedIn<a href="https://www.flaticon.com/free-icons/broken" title="broken icons"></a>](https://www.linkedin.com/in/anand-kr-maurya-akm16/)**
