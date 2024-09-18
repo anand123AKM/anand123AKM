@@ -28,7 +28,7 @@
 
 ## My Portfolio
 
-<a color:"green" href="https://akm-1610.vercel.app/" >AKM_1610</a>
+<a color:green href="https://akm-1610.vercel.app/" >AKM_1610</a>
 
 
 
