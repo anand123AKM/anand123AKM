@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://akm-1610.vercel.app/">
-    <img src="./portfolio.png" alt="Portfolio" style="max-width: 30%; height: auto;" />
+    <img src="./portfolio.png" alt="Portfolio" style="max-width: 40px; height: 40px;" />
   </a>
 </p>
 
