@@ -28,9 +28,9 @@
 
 ## My Portfolio
 
-<p align="center">
+<p>
   <a href="https://akm-1610.vercel.app/">
-    <img src="./portfolio.png" alt="Portfolio" style="max-width: 40px; height: 40px;" />
+    <img src="./portfolio.png" alt="Portfolio" style="max-width: 40px; height: 40px; border-radius: 50%; border: 2px solid white; " />
   </a>
 </p>
 
