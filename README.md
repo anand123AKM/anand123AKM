@@ -2,7 +2,7 @@
 
 <p align="center"> <img img src="./com-gif-maker-2--unscreen.gif"  style="max-width: 90px; height: 90px;"></p>
 
-<h2 align="center">I'm Anand Kr. Maurya</h2>
+<h2 align="center" margin-bottom="3px">I'm Anand Kr. Maurya</h2>
 
 <h5 align="center">currently, a 4th-year Computer Science Engineering student, specializing in full-stack development and mobile app development.</h5>
 
