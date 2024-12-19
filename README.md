@@ -28,8 +28,11 @@
 
 ## My Portfolio
 
-**<a color="red" textDecoration="none" href="https://akm-1610.vercel.app/" >AKM_1610</a>**
-
+<p align="center">
+  <a href="https://akm-1610.vercel.app/">
+    <img src="./portfolio.png" alt="Portfolio" style="max-width: 100%; height: auto;" />
+  </a>
+</p>
 
 
 
