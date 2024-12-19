@@ -44,7 +44,8 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,java,nodejs,mysql,npm,redux,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,java,py,nodejs,mysql,npm,redux,css,mongodb,express,chakraui,git,firebase,github,postman)](https://skillicons.dev)
+
 
 
 - 	![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
