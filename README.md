@@ -44,7 +44,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,java,py,nodejs,mysql,npm,redux,css,mongodb,express,chakraui,git,firebase,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,java,py,nodejs,mysql,npm,redux,css,mongodb,express,git,firebase,github,postman)](https://skillicons.dev)
 
 
 
