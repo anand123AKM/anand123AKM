@@ -69,8 +69,10 @@
 
 
 
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand123akm&show_icons=true&locale=en&layout=compact" alt="anand123akm" />
+</p>
 
-<p><img align="center" src="<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand123akm&show_icons=true&locale=en&layout=compact" alt="anand123akm" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
