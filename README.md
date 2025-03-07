@@ -66,9 +66,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand123akm&show_icons=true&locale=en" alt="anand123akm" /></p>
 
-
 <p>
-  <img src="https://streak-stats.demolab.com/?user=anand123akm" alt="GitHub Streak Stats for anand123akm" />
+  <img src="https://streak-stats.demolab.com?user=anand123akm" alt="GitHub Streak Stats for anand123akm" />
 </p>
 
 
