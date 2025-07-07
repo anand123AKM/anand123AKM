@@ -66,9 +66,11 @@
 
 ![](username=anand123AKM&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anand123AKM&theme=dark&hide_border=false)<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand123akm&show_icons=true&locale=en" alt="anand123akm" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand123akm&theme=dark&show_icons=true&locale=en" alt="anand123akm" /></p>
 <p>
-  <img theme="dark" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand123akm&show_icons=true&locale=en&layout=compact" alt="anand123akm" />
+  <img theme="dark" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand123akm&theme=dark&show_icons=true&locale=en&layout=compact" alt="anand123akm" />
 </p>
 
 
