@@ -22,7 +22,7 @@
 
 
 
-**<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anand123akm" alt="anand123akm" /></a> </p>**
+**<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anand123akm&theme=dark" alt="anand123akm" /></a> </p>**
 
 
 
@@ -31,7 +31,7 @@
 
 <p>
   <a href="https://akm-1610.vercel.app/">
-    <img src="./portf.png" alt="Portfolio" style="max-width: 90px; height: 90px;" />
+    <img src="./portf.png" alt="Portfolio" style="max-width: 90px; height: 90px; " />
   </a>
 </p>
 
