@@ -20,18 +20,21 @@
 
 
 
-<!-- GitHub Trophies (Dark Theme) -->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anand123akm&theme=dark" alt="anand123akm" />
-  </a>
-</p>
-
 ## My Portfolio
 
 <!-- Portfolio Link with Preview Image (make sure portf.png has a dark background) -->
 [![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-blueviolet?style=for-the-badge)](https://akm-1610.vercel.app/)
 
+
+
+<!-- GitHub Trophies (Dark Theme) -->
+## 🏆 GitHub Trophies
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anand123akm&theme=darkhub" alt="anand123akm GitHub Trophies" />
+  </a>
+</p>
 
 
 
