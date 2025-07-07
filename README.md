@@ -20,7 +20,7 @@
 
 
 
-## My Portfolio
+## 🌐 My Portfolio
 
 <!-- Portfolio Link with Preview Image (make sure portf.png has a dark background) -->
 [![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-blueviolet?style=for-the-badge)](https://akm-1610.vercel.app/)
@@ -28,13 +28,6 @@
 
 
 <!-- GitHub Trophies (Dark Theme) -->
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anand123akm&theme=darkhub" alt="anand123akm GitHub Trophies" />
-  </a>
-</p>
 
 
 
@@ -42,7 +35,8 @@
 
 
 
-## Skills
+
+## 🚀 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,java,nodejs,mysql,npm,redux,css,mongodb,express,git,firebase,github,postman)](https://skillicons.dev)
 
@@ -62,7 +56,13 @@
 
 
 
+## 🏆 GitHub Trophies
 
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anand123akm&theme=darkhub" alt="anand123akm GitHub Trophies" />
+  </a>
+</p>
 
 
 ![](username=anand123AKM&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -76,7 +76,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 📱 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anand786akm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anand786akm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anand-kr-maurya-akm-16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand-kr-maurya-akm-16" height="30" width="40" /></a>
