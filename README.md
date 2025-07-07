@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **full stack development**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/anand123AKM](https://github.com/anand123AKM?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/anand123AKM?tab=repositories)**
 
 - 💬 Ask me about **Next js , React js, javascript**
 
