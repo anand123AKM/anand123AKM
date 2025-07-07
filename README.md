@@ -30,11 +30,8 @@
 ## My Portfolio
 
 <!-- Portfolio Link with Preview Image (make sure portf.png has a dark background) -->
-<p align="left">
-  <a href="https://akm-1610.vercel.app/">
-    <img src="./portf.png" alt="Portfolio" width="120" />
-  </a>
-</p>
+[![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-blueviolet?style=for-the-badge)](https://akm-1610.vercel.app/)
+
 
 
 
