@@ -2,7 +2,7 @@
 
 
 <h2 align="center" >
-  <p align="center"> <img img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=5555555&center=true&vCenter=true&width=235&lines=Hi+%F0%9F%91%8B"></p>
+ <img img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=5555555&center=true&vCenter=true&width=235&lines=Hi+%F0%9F%91%8B">
   𝖠𝖓𝖆𝖓𝖉 𝖪𝖗. 𝖬𝖆𝖚𝖗𝖞𝖆
 </h2>
 
