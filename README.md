@@ -20,18 +20,19 @@
 
 
 
-
-
-**<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anand123akm&theme=dark" alt="anand123akm" /></a> </p>**
-
-
+<!-- GitHub Trophies (Dark Theme) -->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anand123akm&theme=dark" alt="anand123akm" />
+  </a>
+</p>
 
 ## My Portfolio
 
-
-<p>
+<!-- Portfolio Link with Preview Image (make sure portf.png has a dark background) -->
+<p align="left">
   <a href="https://akm-1610.vercel.app/">
-    <img src="./portf.png" alt="Portfolio" style="max-width: 90px; height: 90px; " />
+    <img src="./portf.png" alt="Portfolio" width="120" />
   </a>
 </p>
 
