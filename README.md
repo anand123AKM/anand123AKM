@@ -31,7 +31,7 @@
 
 <p>
   <a href="https://akm-1610.vercel.app/">
-    <img src="./portf.png" alt="Portfolio" style="max-width: 90px; height: 90px; background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)); " />
+    <img src="./portf.png" alt="Portfolio" style="max-width: 90px; height: 90px; box-shadow:inset 0 0 2px 2px; " />
   </a>
 </p>
 
