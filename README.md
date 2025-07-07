@@ -1,8 +1,7 @@
 <p align="center"> <img img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=5555555&center=true&vCenter=true&width=235&lines=Hi+%F0%9F%91%8B"></p>
 
-<p align="center"> <img img src="./com-gif-maker-2--unscreen.gif"  style="max-width: 90px; height: 90px;"></p>
 
-<h2 align="center" >I'm Anand Kr. Maurya</h2>
+<h2 align="center" >Anand Kr. Maurya</h2>
 
 <h5 align="center">currently, a 4th-year Computer Science Engineering student, specializing in full-stack development and mobile app development.</h5>
 
@@ -70,7 +69,7 @@
 
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand123akm&show_icons=true&locale=en&layout=compact" alt="anand123akm" />
+  <img background-color="black" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand123akm&show_icons=true&locale=en&layout=compact" alt="anand123akm" />
 </p>
 
 
