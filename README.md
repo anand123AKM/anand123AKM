@@ -5,7 +5,7 @@
   𝖠𝖓𝖆𝖓𝖉 𝖪𝖗. 𝖬𝖆𝖚𝖗𝖞𝖆
 </h2>
 
-<h5 align="center">currentlyGraduate Engineer Trainee at HCLTech, with a strong foundation in Computer Science and Engineering. Passionate about React Native app development and full-stack solutions, with hands-on skills in React.js, Next.js, and JavaScript for creating dynamic and responsive applications.
+<h5 align="center"> Graduate Engineer Trainee at HCLTech, with a strong foundation in Computer Science and Engineering. 
 </h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand123akm&label=Profile%20views&color=0e75b6&style=flat" alt="anand123akm" /> </p>
